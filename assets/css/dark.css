@@ -1,0 +1,94 @@
+    body,
+    .footer,
+    .footer-bottom {
+        color: #dbe2fb;
+        background: #000;
+    }
+    
+    .section-title h5,
+    .timer li span,
+    .reserved span,
+    .feature-icon {
+        color: #0004ff;
+    }
+    
+    .button,
+    .main-menu ul li::after,
+    .product-btn,
+    .testimonial-quote,
+    .feature-container .shape-one,
+    .feature-container .shape-two,
+    .top-btn {
+        background: #0004ff;
+    }
+    
+    .main-menu ul li a:hover,
+    .timer li h2,
+    .top-btn {
+        color: #fff;
+    }
+    
+    .showcase,
+    .launching,
+    .newsletter,
+    .testimonial,
+    .feature-container,
+    .product-container,
+    .testimonial-box {
+        background: #090909;
+    }
+    
+    .main-menu ul li ul.submenu {
+        border-top: 5px solid #0004ff;
+    }
+    
+    .main-menu ul li ul.submenu li a::before {
+        background: #0004ff;
+    }
+    
+     ::-webkit-scrollbar {
+        width: 15px;
+    }
+    
+     ::-webkit-scrollbar-thumb {
+        background: #0004ff;
+    }
+    
+    .mean-container a.meanmenu-reveal {
+        border: 1px solid #fff;
+    }
+    
+    .mean-container a.meanmenu-reveal span {
+        background: #fff none repeat scroll 0 0;
+    }
+    
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    a,
+    p,
+    .section-title {
+        color: #ffff;
+    }
+    
+    .black {
+        background: #000;
+    }
+    
+    #loading {
+        background-color: #000;
+        height: 100%;
+        width: 100%;
+        position: fixed;
+        z-index: 99999;
+        margin-top: 0px;
+        top: 0px;
+    }
+    
+    .object {
+        border-top: 5px solid #0004ff;
+        border-left: 5px solid #0004ff;
+    }

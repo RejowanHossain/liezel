@@ -1,0 +1,215 @@
+        /* laptop/desktop 1200px */
+        
+        @media (min-width: 1200px) and (max-width: 1500px) {}
+        /* normal desktop */
+        
+        @media (min-width: 992px) and (max-width: 1200px) {
+            .main-menu ul li {
+                margin-left: 8px;
+            }
+            .main-menu .left-space {
+                margin-left: 23px;
+            }
+        }
+        /* tablet */
+        
+        @media (min-width: 768px) and (max-width: 991px) {
+            .hero {
+                padding: 192px 0px 154px;
+            }
+            .feature {
+                padding: 60px 0px 70px 0px;
+            }
+            .service {
+                padding: 60px 0px 70px 0px;
+            }
+            .newsletter {
+                padding: 60px 0px 70px 0px;
+            }
+            .client {
+                padding: 60px 0px 70px 0px;
+            }
+            .responsive-center {
+                text-align: center;
+            }
+            .form-fields {
+                width: 100%;
+            }
+            .facts li {
+                margin-right: 20px;
+            }
+            .facts li span {
+                font-size: 17px;
+            }
+            .facts li p {
+                font-size: 12px;
+            }
+            .footer {
+                padding: 60px 0px 70px 0px;
+            }
+            /* service details page */
+            .hero-service {
+                padding: 192px 0px 154px;
+            }
+            /* user profile */
+            .user-profile {
+                padding: 60px 0px 70px 0px;
+            }
+        }
+        /* small mobile */
+        
+        @media (max-width: 767px) {
+            .topbar {
+                display: none;
+            }
+            .header {
+                top: 0;
+            }
+            .hero {
+                padding: 179px 0px 136px;
+            }
+            .banner-search h1 {
+                font-size: 42px;
+            }
+            h3 {
+                font-size: 28px;
+                line-height: 33px;
+            }
+            .feature {
+                padding: 60px 0px 70px 0px;
+            }
+            .service {
+                padding: 60px 0px 70px 0px;
+            }
+            .newsletter {
+                padding: 60px 0px 70px 0px;
+            }
+            .client {
+                padding: 60px 0px 70px 0px;
+            }
+            .terms {
+                padding: 60px 0px 70px 0px;
+            }
+            .notification form {
+                width: 100%;
+            }
+            .form-fields {
+                width: 100%;
+            }
+            .facts li {
+                margin-right: 20px;
+            }
+            .facts li span {
+                font-size: 17px;
+            }
+            .facts li p {
+                font-size: 12px;
+            }
+            .responsive-margin {
+                margin-bottom: 25px;
+                justify-content: center;
+            }
+            .flex-center {
+                justify-content: center;
+            }
+            .reserved p {
+                font-size: 14px;
+            }
+            .footer {
+                padding: 60px 0px 70px 0px;
+            }
+            /* service details page */
+            .hero-service {
+                padding: 150px 0px 110px;
+            }
+            .banner-search h1 {
+                line-height: 52px;
+            }
+            /* login page */
+            .hero-login {
+                padding: 150px 0px 110px;
+            }
+            /* register page */
+            .hero-register {
+                padding: 150px 0px 110px;
+            }
+            /* vendor page */
+            .hero-vendor {
+                padding: 150px 0px 110px;
+            }
+            .left-side img {
+                height: 360px;
+            }
+            /* user profile */
+            .user-profile {
+                padding: 60px 0px 70px 0px;
+            }
+            .user-profile-left img {
+                height: 200px;
+            }
+            /* booking page */
+            .nav-tabs {
+                display: flex;
+                justify-content: center;
+            }
+            .nav-tabs .nav-link.responsive-margin-bottom {
+                margin-bottom: 20px;
+            }
+        }
+        /* large mobile */
+        
+        @media only screen and (min-width: 520px) and (max-width: 767px) {
+            h3 {
+                font-size: 34px;
+            }
+            .hero {
+                padding: 179px 0px 136px;
+            }
+            .banner-search h1 {
+                font-size: 42px;
+            }
+            .responsive-center {
+                text-align: center;
+            }
+            .responsive-margin {
+                margin-bottom: 25px;
+                justify-content: center;
+            }
+            .flex-center {
+                justify-content: center;
+            }
+            .reserved p {
+                font-size: 14px;
+            }
+            /* service  details page */
+            .hero-service {
+                padding: 179px 0px 136px;
+            }
+            /* login page */
+            .hero-login {
+                padding: 150px 0px 110px;
+            }
+            /* register page */
+            .hero-register {
+                padding: 150px 0px 110px;
+            }
+            /* vendor page */
+            .hero-vendor {
+                padding: 150px 0px 110px;
+            }
+            /* user profile */
+            .user-profile {
+                padding: 60px 0px 70px 0px;
+            }
+            .user-profile-left img {
+                height: 200px;
+            }
+            /* booking page */
+            .nav-tabs {
+                display: flex;
+                justify-content: center;
+            }
+            .nav-tabs .nav-link.responsive-margin-bottom {
+                margin-bottom: 20px;
+            }
+        }
